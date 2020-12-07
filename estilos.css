@@ -1,0 +1,148 @@
+
+.titulos{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.dropdown{
+    margin-top: -50px;
+   margin-bottom: 60px;
+}
+.header{
+    background: rgb(0, 0, 0);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.header_area{
+    padding: 20px;
+}
+
+.memu_area{
+    margin-top: 30px;
+}
+
+.navbar-form{
+    margin-left: 50px; 
+    width: 150px;
+   
+}
+
+.memu_area nav a{
+  
+    background-color: rgb(255, 145, 0);
+    color:rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+.memu_area nav a:hover{
+    background-color:rgb(255, 230, 0);
+}
+
+.nav-link{
+    margin-left: 10px;
+}
+.active{
+    background-color: #f3a20c !important;
+}
+.p-footer-titulo{
+    font-size: 16px;
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 265px;
+    margin-top: -160px;
+}
+#p-footer-text{
+    font-size: 14px;
+    font-family: arial;
+    margin-left: 265px;
+    
+}
+li {
+    list-style-type: none;
+  }
+.nome-avaliador{
+    margin-left: 100px; 
+    margin-top: -75px;
+}
+.text-justify{
+    font-size: 20px;
+    margin-left: 100px;
+}
+.logo{
+    width: 150px;
+}
+.logo-Footer{
+    width: 150px;
+}
+.card-title{
+    margin-top: 10px;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.card-text{
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: Arial;
+    
+}
+.main{
+    
+}
+.btn .btn-primary{
+    background-color: gray; 
+}
+.main .card{
+    
+    margin-bottom: 15px;
+}
+
+.main_area{
+    margin-bottom: 20px;
+}
+
+.footer{
+    margin-top: 10px;
+    background: rgb(0, 0, 0);
+    color: white;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center  ;
+}
+.card-img-top{
+    width:100%;
+    height:auto;
+  }
+.modal-body img{ width: 100%;}
+
+.memu_area2{
+    margin-top: 30px;
+}
+
+.memu_area2 nav a{
+    background-color: #eea010;
+    color:white;
+    margin-bottom: 10px;
+}
+#texto-sobre{
+    margin-left: -20px;
+}
+.memu_area2 nav a:hover{
+    background-color: #eeb868;
+}
+
+.estrelas input[type=radio] {
+    display: none;
+  }
+  .estrelas label i.fa:before {
+    content:'\f005';
+    color: #FC0;
+  }
+  .estrelas input[type=radio]:checked ~ label i.fa:before {
+    color: #CCC;
+  }
+.datas{
+    font-size: 15px;
+    font-weight: bold;
+}
